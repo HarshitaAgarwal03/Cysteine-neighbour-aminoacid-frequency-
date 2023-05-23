@@ -7,7 +7,7 @@
 
 ######--------------************************************************************************--------------######
 
-setwd("~/Harshita/anand-mass-spec-data")      #set working directory
+setwd("~/Harshita/mass-spec-data")      #set working directory
 
 #--------------------------------- loading packages for the analysis, if not present download using install.packages()------------------------
 
