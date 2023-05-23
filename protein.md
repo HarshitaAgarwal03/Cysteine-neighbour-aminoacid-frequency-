@@ -4,7 +4,7 @@
 Cysteine is an non-essential amino acid containing Sulphur in its side chain. It is hydrophilic in nature and could form (weak) hydrogen bonds. Majorly, it is found in hydrophobic environments, either as disulphide or as free form. Cysteine's sulfur atom form sulfhydryl group, which is capable of forming covalent bonds in the form of disulfides in oxidative environments and can be dissociated in reductive conditions. 
 Disulphide bridges function as fundamental building blocks for protein molecular architecture and thus governing biological processess. 
 
-<img src="/home/harshita/Harshita/anand-mass-spec-data/cysteine-and-cystine.png" width="500" height="500">
+<img src="https://github.com/HarshitaAgarwal03/TCGA-RNA-seq/blob/main/cysteine-and-cystine.png">
 
 Considering the importance of Cysteine for maintaining the 3D-structure scaffold of proteins, it is essential to have as accurate information about the pattern of its neighbouring amino acids in both disulphide and free form.   
  
